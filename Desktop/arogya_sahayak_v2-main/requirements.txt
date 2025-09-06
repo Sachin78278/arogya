@@ -1,0 +1,27 @@
+# Python dependencies for Arogya Sahayak v2
+
+# FastAPI and web server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+
+# Speech-to-Text
+openai-whisper
+
+# Optical Character Recognition
+pytesseract
+Pillow
+
+# Natural Language Understanding
+transformers
+torch
+
+# For Zero-Shot Classification pipeline
+sentencepiece
+
+# Web Interface
+gradio
+requests
